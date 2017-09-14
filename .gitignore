@@ -20,3 +20,5 @@ backups
 Investigacion
 issues
 uploads
+#ignorar la BD
+*.sqlite3
