@@ -1,0 +1,22 @@
+#ignorar la carpeta .idea porque es propia del IDE
+.idea/
+.idea/workspace.xml
+#ignorar todos los .pyc porque son los archivos binarios
+*.pyc
+*.xml
+*.orig
+.project
+.pydevproject
+.settings
+.settings/org.eclipse.core.resources.prefs
+django
+Doc/
+**/.idea/workspace.xml
+.iws
+workspace.xml
+task.xml
+*~
+backups
+Investigacion
+issues
+uploads
